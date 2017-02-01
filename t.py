@@ -1,4 +1,7 @@
-x = input("új sor?: ")
-y = raw_input("nem új sor: ")
-print(x)
-print(y)
+def testing():
+	x = input("új sor?: ")
+	print(x)
+	z = "lakshdéo"
+	print(z)
+testing()
+
